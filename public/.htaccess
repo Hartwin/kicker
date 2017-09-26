@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Password Protected Area"
-AuthUserFile /.htpasswd
+AuthUserFile /opt/app-root/config/.htpasswd
 Require valid-user
